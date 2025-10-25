@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Syllabus.pdf
+Exec=/media/sf_Project/syllabus.sh
+Icon=application-pdf
+Type=Application
+Terminal=false
