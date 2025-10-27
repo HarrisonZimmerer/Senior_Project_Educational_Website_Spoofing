@@ -1,4 +1,4 @@
-# CYB-4003 Project 04 — OCII Website Spoofing
+# Senior Project — OCII Website Spoofing
 
 ## Objective
 
@@ -12,11 +12,11 @@ The final product included a realistic spoofed school login website, contained w
 ## Skills Learned
 
 * Designing and developing realistic phishing and spoofing simulations
-* Implementing **secure logging mechanisms** for simulated data
-* Configuring and deploying **virtual machine environments** for isolated testing
-* Applying **ethical and legal cybersecurity standards** to educational simulations
-* Conducting **threat modeling** and **user awareness analysis**
-* Collaborating in a **team-based capstone project** to meet client-defined requirements
+* Implementing secure logging mechanisms for simulated data
+* Configuring and deploying virtual machine environments for isolated testing
+* Applying ethical and legal cybersecurity standards to educational simulations
+* Conducting threat modeling and user awareness analysis
+* Collaborating in a team-based capstone project to meet client-defined requirements
 
 ---
 
@@ -32,22 +32,31 @@ The final product included a realistic spoofed school login website, contained w
 
 ## Project Overview
 
+The OCII Website Spoofing project was developed as a senior capstone to create a **safe, hands-on simulation** for teaching high school students how to detect spoofed login pages. The system used virtual machines, web development tools, and secure scripting to simulate real phishing scenarios in a controlled environment.
 
+### Bash Script
+
+Automated deployment and management of the virtual environment, including hosting and logging of simulated credential entries.
+<img width="747" height="540" alt="CYB 4003 Cyber Capstone Final Presentation " src="https://github.com/user-attachments/assets/a9a007b3-4110-4555-9270-81cea0b2f667" />
+
+### Flask Application
+
+A lightweight Flask backend securely handled simulated login data and supported controlled phishing exercises.
+<img width="597" height="540" alt="CYB 4003 Cyber Capstone Final Presentation (2)" src="https://github.com/user-attachments/assets/6fd7b414-edc6-4235-acf5-5e9c57b8fa9e" />
+
+### Official Website Page
+
+Displayed educational material and ethical disclaimers to differentiate legitimate and spoofed sites.
 <img width="1599" height="899" alt="Screenshot 2025-03-25 112115 (1)" src="https://github.com/user-attachments/assets/e1c01425-3046-4b9d-a7db-a2fc855b7a71" />
+
+### Spoofed Page (Hosted Locally)
+
+A locally hosted spoofed login page mimicking a school portal for awareness training within virtual machines.
+
+Parts of the project BAs
 <img width="1599" height="899" alt="Screenshot 2025-03-25 111201 1 (1)" src="https://github.com/user-attachments/assets/a06f7d6b-71c1-4719-936c-dbc9bcfebe8d" />
 
 
-### Core Components
-
-| Component                   | Description                                                                                     |
-| --------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Spoofed Login Page**      | Designed a realistic imitation of a school login interface to simulate phishing behavior.       |
-| **Secure Logging System**   | Captured simulated login attempts for instructional feedback without storing real credentials.  |
-| **Virtualized Environment** | Deployed all components in isolated virtual machines to ensure safety and control.              |
-| **Educational Exercises**   | Students interacted with spoofed pages and later reviewed logged results to identify red flags. |
-| **Scalability Options**     | Designed architecture to support multiple difficulty levels for varied user experience.         |
-
----
 
 ## Problem Addressed
 
